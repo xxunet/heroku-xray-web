@@ -1,0 +1,27 @@
+{
+    "inbounds": [
+        {
+            "listen": "/etc/caddy/vless", 
+            "protocol": "vless", 
+            "settings": {
+                "clients": [
+                    {
+                        "id": "$UUID"
+                    }
+                ], 
+                "decryption": "none"
+            }, 
+            "streamSettings": {
+                "network": "ws", 
+                "wsSettings": {
+                    "path": "/api"
+                }
+            }
+        }
+    ], 
+    "outbounds": [
+        {
+            "protocol": "freedom"
+        }
+    ]
+}
