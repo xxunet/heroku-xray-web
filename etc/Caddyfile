@@ -12,6 +12,6 @@ header {
 @websocket_xray_vless {
     header Connection *Upgrade*
     header Upgrade    websocket
-    path /api
+    path /xws
 }
 reverse_proxy @websocket_xray_vless unix//etc/caddy/vless
