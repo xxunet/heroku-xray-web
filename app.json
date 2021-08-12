@@ -7,6 +7,10 @@
             "description": "XRay UUID",
             "value": "988d75e5-a72c-48a6-9488-62ff1bbba8d8"
         },
+        "WSPath": {
+            "description": "WebSocket Path",
+            "value": "/xws"
+        },
         "WebPage": {
             "description": "自定义Web页面",
             "value": "https://raw.githubusercontent.com/xxunet/heroku-xray-web/main/archive/web.zip"
