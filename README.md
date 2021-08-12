@@ -17,7 +17,7 @@ Vless 性能更加优秀，占用资源更少。
 
 本镜像不会因为大量占用资源而被封号。注册好 Heroku 账号并登录后，点击下面按钮便可部署。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/xxunet/heroku-xray-web) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/xxunet/xray-w) 
 
 点击上面紫色 `Deploy to Heroku`，会跳转到 Heroku App 创建页面，填上应用的名称，选择节点(建议用欧洲节点，美国节点会自动删除 YouTube 评论与点赞！)，按需修改部分参数和 UUID 后，点击下面 `Deploy app` 开始部署应用。
 
