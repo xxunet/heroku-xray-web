@@ -24,7 +24,7 @@
             "value": "https://raw.githubusercontent.com/xxunet/xray-w/main/etc/xray.json"
         }
     },
-    "website": "https://github.com/xxunet/xray-w",
-    "repository": "https://github.com/xxunet/xray-w",
+    "website": "https://github.com/xxunet/heroku-xray-web",
+    "repository": "https://github.com/xxunet/heroku-xray-web",
     "stack": "container"
 }
